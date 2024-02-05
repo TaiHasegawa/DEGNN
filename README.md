@@ -10,7 +10,7 @@ torch==1.13.1
 ```
 
 ## Uasge
-All the parameters are included in `best_parameters.json`.
+All the hyper-parameters are included in `best_parameters.json`.
 
 You can run:
 ```

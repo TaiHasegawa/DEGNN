@@ -14,7 +14,7 @@ All the hyper-parameters are included in `best_parameters.json`.
 
 You can run:
 ```
-python main.py --dataset cora --model DEGNN1  --num_exp 10
+python main.py --dataset cora --model DEGNN1 --num_exp 10
 ```
 To run experiments with extra noise, spesify them by the parameters `--edge_noise_ratio` and `--node_noise_ratio`.
 

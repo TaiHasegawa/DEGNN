@@ -19,4 +19,13 @@ python main.py --dataset cora --model DEGNN1 --num_exp 10
 To run experiments with extra noise, spesify them by the parameters `--edge_noise_ratio` and `--node_noise_ratio`.
 
 ## Cite
-comming soon.
+```
+@inproceedings{hasegawa2024degnn,
+  title={DEGNN: Dual Experts Graph Neural Network Handling both Edge and Node Feature Noise},
+  author={Hasegawa, Tai and Yun, Sukwon and Liu, Xin and Phua, Yin Jun and Murata, Tsuyoshi},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={376--389},
+  year={2024},
+  organization={Springer}
+}
+```

@@ -1,5 +1,5 @@
 # DEGNN PAKDD2024
-This is a PyTorch implementation of PAKDD 2024 paper "DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise".
+This is a PyTorch implementation of PAKDD 2024 paper [DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise](https://link.springer.com/chapter/10.1007/978-981-97-2253-2_30). This paper is also available at [arxiv](https://arxiv.org/abs/2404.09207).
 
 ## Requirements
 ```
